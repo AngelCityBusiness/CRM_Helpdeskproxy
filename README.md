@@ -10,7 +10,7 @@ This repository hosts the CRM Support Proxy Website, designed to integrate a cus
 
 ## How to Use
 
-The proxy website is accessible at [https://kb.mycrmsupport.com/angelcitybusiness](https://kb.mycrmsupport.com/angelcitybusiness). Users can navigate to this URL to access the help desk content with an integrated chatbot for support.
+The proxy website is accessible at https://www.angelcitymarketing.com for the site: [https://kb.mycrmsupport.com/angelcitybusiness] (https://kb.mycrmsupport.com/angelcitybusiness). Users can navigate to the first URL (angelcitymarketing) to access the help desk content with an integrated chatbot for support.
 
 ## Setup and Deployment
 
